@@ -2,6 +2,10 @@
 
 ![TrackOn Banner](https://via.placeholder.com/1200x400/0a0a0a/ffffff?text=RMAA+TrackOn+-+The+10mm+Silicon+Tracker)
 
+<div align="center">
+  <a href="https://www.producthunt.com/products/trackon?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-trackon" target="_blank" rel="noopener noreferrer"><img alt="TrackOn - The 10mm open-source silicon tracking tag. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1269412&theme=neutral&t=1791122010420"></a>
+</div>
+
 > **The world's thinnest, open-source bare-die tracking tag.** Built on custom RISC-V silicon, charging via 13.56 MHz resonant magnetic flux, and natively integrated with the Apple Find My / Google Find My Device networks.
 
 [![GitHub Stars](https://img.shields.io/github/stars/RMAAPK/TrackOn?style=social)](https://github.com/RMAAPK/TrackOn)
