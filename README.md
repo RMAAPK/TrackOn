@@ -1,6 +1,6 @@
 # RMAA TrackOn
 
-![TrackOn Banner](https://via.placeholder.com/1200x400/0a0a0a/ffffff?text=RMAA+TrackOn+-+The+10mm+Silicon+Tracker)
+![TrackOn Banner](./assets/banner.jpg)
 
 <div align="center">
   <a href="https://www.producthunt.com/products/trackon?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-trackon" target="_blank" rel="noopener noreferrer"><img alt="TrackOn - The 10mm open-source silicon tracking tag. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1269412&theme=neutral&t=1791122010420"></a>
